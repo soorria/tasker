@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+node_modules/**/*
+dist/**/*
+coverage
+*.log
+
+# used to store secrets
+.env
